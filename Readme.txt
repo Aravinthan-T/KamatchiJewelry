@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Thanks for looking into this Repository.
 
-Template Name: Vesperr
-Template URL: https://bootstrapmade.com/vesperr-free-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+I created this elegant website for my friend Jewelry shop
